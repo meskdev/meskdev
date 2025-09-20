@@ -3,7 +3,7 @@
 - 🌱 Currently diving deep into web and AI development with:  
   **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL**, **Python**, **Node.js**, **Ionic**, **React**, and **Vue**.  
   I'm also expanding my AI toolkit with:  
-  **LangChain**, **LangGraph**, **LangSmith**, **CrewAI**, **Multi-Agent Collaboration Protocol (MCP)**, and **n8n** for workflow automation.
+  **LangChain**, **LangGraph**, **LangSmith**, **CrewAI**, **Llama Index**, **Multi-Agent Collaboration Protocol (MCP)**, and **n8n** for workflow automation.
 - 🌱 I believe in tech with purpose — I actively seek collaboration in **vegan communities** and projects with a positive impact.  
   I’m not looking for a job; just great ideas and like-minded people to build with!
 - 📫 Reach out anytime:  
