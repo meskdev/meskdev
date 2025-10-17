@@ -7,8 +7,7 @@
 - 🌱 I believe in tech with purpose — I actively seek collaboration in **vegan communities** and projects with a positive impact.  
   I’m not looking for a job; just great ideas and like-minded people to build with!
 - 📫 Reach out anytime:  
-  📱 +55(81)9899-6369 / +55(81)99330-4393  
-  📧 rdgmesk@gmail.com / rodrigo_mesk@hotmail.com
+  📧 rdgmesk@gmail.com
 
 
 <!---
